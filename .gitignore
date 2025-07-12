@@ -1,0 +1,9 @@
+__pycache__/
+calc.hist
+textualinput.py
+ast*
+select.tcss
+myast.py
+calculator.py
+commondefs.py
+
