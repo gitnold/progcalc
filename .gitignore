@@ -6,4 +6,5 @@ select.tcss
 myast.py
 calculator.py
 commondefs.py
+regex_calc_validation.py
 
