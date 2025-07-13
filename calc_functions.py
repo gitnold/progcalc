@@ -26,7 +26,6 @@ def subtract(input):
 
 
 def multiply(input):
-    #TODO: check for exponentiation.
     return math.prod(input)
 
 

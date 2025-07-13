@@ -126,7 +126,6 @@ class Calculator(App):
             else:
                 self.notify("Wrong input", severity='error', timeout=3.0)
         
-        #TODO: rectify post histroy clearance notification.    
         elif event.button.id == "clearhist":
             self.notify("Clearing history", severity='warning', timeout=1.0)
             status = calc_functions.manipulate_hist_file(FileOp.CLEAR)
