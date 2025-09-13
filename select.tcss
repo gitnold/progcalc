@@ -1,0 +1,19 @@
+Screen {
+    align: center top;
+}
+
+Select {
+    width: 60;
+    margin: 2;
+    padding: 1;
+}
+
+Execute {
+    padding: 1;
+}
+RichLog {
+    align: center bottom;
+    padding: 2;
+    border: green;
+    height: auto;
+}
